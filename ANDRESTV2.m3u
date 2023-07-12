@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 xui-id="591312" tvg-id="" tvg-name="PED01: PE: LIGA 1 FHD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPSN6iiITfD5yHZmDCYJ-TPFhZuWjNB1IhqBpFeMi5FB1.png" group-title="⚽ - FUTBOL PERU",PED01: PE: LIGA 1 FHD
 http://dnslivetv.online:80/U8dhAvSLwLpPcyDnKOp53SE6o0_XIxLFRIz-syOjhTc
 #EXTINF:-1 xui-id="591313" tvg-id="" tvg-name="PED02: PE: LIGA 1 HD" tvg-logo="http://dnslivetv.online:80/images/-kRhDmGtaRfxVEGEnqonPSN6iiITfD5yHZmDCYJ-TPFhZuWjNB1IhqBpFeMi5FB1.png" group-title="⚽ - FUTBOL PERU",PED02: PE: LIGA 1 HD
